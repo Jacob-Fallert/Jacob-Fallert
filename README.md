@@ -5,11 +5,7 @@
 
 
 
-Hi, I'm a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-
-
-- 💼 Doing Commissions Currently for PocketMine-MP.
+- ❤️ Doing Commissions Currently for PocketMine-MP.
 
 - 💬 Need Development help? Contact me!
 
