@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there! Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <br />
@@ -9,13 +9,13 @@ Hi, I'm a passionate self-taught full stack web developer and a freelance softwa
 
 
 
-- 💼 Doing Commissions.
+- 💼 Doing Commissions Currently for PocketMine-MP.
 
 - 💬 Need Development help? Contact me!
 
 
 
-**Languages I use:**  
+**Languages I Am Using**  
 
 
 
@@ -23,4 +23,4 @@ Hi, I'm a passionate self-taught full stack web developer and a freelance softwa
 
 📈 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jacob-Fallert&show_icons=true&theme=gotham" alt="Jacob-Fallert" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jacoobcodes&show_icons=true&theme=gotham" alt="jacoobcodes" />
