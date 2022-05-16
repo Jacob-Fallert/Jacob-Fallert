@@ -3,9 +3,8 @@
 
 <br />
 
-- Currently working at SienaMC
 
-- ❤️ Doing Commissions Currently for PocketMine-MP.
+- Doing PHP Commissions
 
 - 💬 Need Development help? Contact me!
 
