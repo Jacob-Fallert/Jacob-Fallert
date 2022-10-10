@@ -4,11 +4,6 @@
 <br />
 
 
-- Doing PHP Commissions
-
-- 💬 Need Development help? Contact me!
-
-
 
 **Languages I Am Using**  
 
